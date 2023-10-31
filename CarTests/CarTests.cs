@@ -2,6 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CarTests
 {
+    [TestClass]
     public class CarTests
     {
         //TODO: add emptyTest so we can configure our runtime environment (remove this test before pushing to your personal GitHub account)
